@@ -11,3 +11,5 @@ Type the following commands in your system's terminal:
   2. pip install nba_api
   3. pip install matplotlib
   4. pip install collections
+
+Enjoy!
